@@ -1,5 +1,6 @@
 
 hello
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -9,7 +10,7 @@ hello
 <body>
 
 
-    
+    <!DOCTYPE html>
     <html lang="es">
     <head>
       <meta charset="UTF-8">
@@ -177,4 +178,3 @@ hello
 </html>
 
  stunning-landing-page-template-featuring-a-3d-web-design-computer-with-open-pages-perfect-for-your-website_3950512
-
